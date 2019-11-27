@@ -46,7 +46,7 @@ Hey, guys! Here's a list of useful tips and resources for unit 1
 ## JQuery
 1. **[JQuery](https://htmlcheatsheet.com/jquery/)**
 2. **[JQuery Quick API Reference](https://oscarotero.com/jquery/)**
-3. **[JQuery](https://api.jquery.com/)**
+3. **[JQuery API](https://api.jquery.com/)**
 ---
 
 ## Markdown:
