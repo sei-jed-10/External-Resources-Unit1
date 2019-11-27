@@ -31,10 +31,10 @@ Hey, guys! Here's a list of useful tips and resources for unit 1
 2. **[CSS Reference](https://cssreference.io/)**
 3. **[CSS Positioning](https://cssreference.io/positioning/)**
 4. **[CSS Advanced Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)**
-5. **[CSS Layout](http://learnlayout.com/toc.html)
-6. **[CSS FlexBox](https://the-echoplex.net/flexyboxes/)
+5. **[CSS Layout](http://learnlayout.com/toc.html)**
+6. **[CSS FlexBox](https://the-echoplex.net/flexyboxes/)**
 7. **[CSS Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
-8. **[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+8. **[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)**
 ---
 
 ## DOM
