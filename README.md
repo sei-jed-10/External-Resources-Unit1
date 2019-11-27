@@ -43,9 +43,10 @@ Hey, guys! Here's a list of useful tips and resources for unit 1
 2. **[DOM Events Document](https://devdocs.io/dom_events/)**
 ---
 
-## JQuary
-1. **[JQuary](https://htmlcheatsheet.com/jquery/)**
-2. **[JQuarry Quick API Reference](https://oscarotero.com/jquery/)**
+## JQuery
+1. **[JQuery](https://htmlcheatsheet.com/jquery/)**
+2. **[JQuery Quick API Reference](https://oscarotero.com/jquery/)**
+3. **[JQuery](https://api.jquery.com/)**
 ---
 
 ## Markdown:
